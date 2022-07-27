@@ -1,0 +1,32 @@
+[
+ {
+    "company": "Evil Corp",
+    "name": "Jayson",
+    "detail1_title": "Job:",
+    "detail1_text": "Minion",
+    "detail2_title": "Tasks:",
+    "detail2_text": "impostering",
+    "image": "badge-image.bin",
+    "contact": [
+        {"platform": "Website", "handle": "https://matt.\ngrabara.net/", "link": "https://matt.grabara.net/"},
+        {"platform": "GitHub", "handle": "@GrabiDev", "link": "https://github.com/GrabiDev/"},
+        {"platform": "Twitter", "handle": "@MattGrabara", "link": "https://twitter.com/MattGrabara/"}
+        
+    ]
+  },
+  {
+    "company": "Hogs United",
+    "name": "Jay",
+    "detail1_title": "Job:",
+    "detail1_text": "Watcher",
+    "detail2_title": "Office:",
+    "detail2_text": "Newcastle",
+    "image": "badge-image.bin",
+    "contact": [
+        {"platform": "Website", "handle": "https://matt.\ngrabara.net/", "link": "https://matt.grabara.net/"},
+        {"platform": "GitHub", "handle": "@GrabiDev", "link": "https://github.com/GrabiDev/"},
+        {"platform": "Twitter", "handle": "@MattGrabara", "link": "https://twitter.com/MattGrabara/"}
+        
+    ]
+  }
+]
